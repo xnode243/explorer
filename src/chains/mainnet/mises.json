@@ -1,0 +1,16 @@
+{
+    "chain_name": "mises",
+    "coingecko": "",
+    "api": ["https://mises-api.xnode243.xyz"],
+    "rpc": ["https://mises-rpc.xnode243.xyz"],
+    "sdk_version": "0.42.4",
+    "addr_prefix": "mises",
+    "logo": "/logos/mises.png",
+    "assets": [{
+        "base": "umis",
+        "symbol": "MIS",
+        "exponent": "6",
+        "coingecko_id": "",
+        "logo": "/logos/mises.png"
+    }]
+}
