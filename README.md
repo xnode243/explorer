@@ -1,8 +1,8 @@
 <div align="center">
 
-![Ping Wallet](./public/logo.svg)
+![Ping Wallet](./public/logo.png)
 
-<h1>Ping Dashboard</h1>
+<h1>Xnode Dashboard</h1>
 
 **Ping Dashboard is not only an explorer but also a wallet and more ... 🛠**
 
